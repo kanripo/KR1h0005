@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 論語
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:18.835704
+#+PROPERTY: ID KR1h0005
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0029-000論語-序.
 <pb:KR1h0005_SBCK_000-1a>¶
 論語序¶
 叙曰漢中壘校尉劉向言魯論語¶
@@ -37,4 +41,3 @@
 鄭冲㪚&KR0016;常侍中領軍安鄉亭侯¶
 臣曹羲侍中臣荀顗尚書駙馬都¶
 尉關内侯臣何晏䓁上¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 論語
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:18.865227
+#+PROPERTY: ID KR1h0005
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0029-001論語-卷第一.
 <pb:KR1h0005_SBCK_001-1a>¶
 論語學而第一　何晏集解(凢十六章)¶
 子曰學而時習之不亦悦乎(馬融/曰子)¶
@@ -183,4 +187,3 @@
 無勇(孔安國曰義者所冝為/也而不&KR0014;為是無勇也)¶
 論語卷第一(經一千四百七/十字/註一千五百一十三字)¶
 <pb:KR1h0005_SBCK_001-14a>¶
-

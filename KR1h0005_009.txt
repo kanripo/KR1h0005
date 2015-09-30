@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 論語
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.193269
+#+PROPERTY: ID KR1h0005
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB01n0029-009論語-卷第九.
 <pb:KR1h0005_SBCK_009-1a>¶
 論語陽貨第十七　何晏集解(九卄四章)¶
 陽貨欲見孔子孔子不見(孔安國/曰陽貨)¶
@@ -246,4 +250,3 @@
 隨季騧(苞氏曰周時四乳得八/子皆爲顯士故記之)¶
 論語卷第九(經一千六百五十/字/注一千七百七十八字)¶
 <pb:KR1h0005_SBCK_009-18b>¶
-

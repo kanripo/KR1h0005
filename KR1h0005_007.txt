@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 論語
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.106036
+#+PROPERTY: ID KR1h0005
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB01n0029-007論語-卷第七.
 <pb:KR1h0005_SBCK_007-1a>¶
 論語子路第十三　何晏集解(凡卅章)¶
 子路問政子曰先之勞之(孔安國/曰先導)¶
@@ -357,4 +361,3 @@
 (求益/者也)¶
 論語卷第七(經二千三百九十四字/注二千五百五十六字)¶
 <pb:KR1h0005_SBCK_007-26b>¶
-

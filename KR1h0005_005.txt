@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 論語
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.028738
+#+PROPERTY: ID KR1h0005
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB01n0029-005論語-卷第五.
 <pb:KR1h0005_SBCK_005-1a>¶
 論語子罕第九　何晏集解(凢卅一章/皇卅/章)¶
 子罕言利與命與仁(罕者希也利/者義之和也)¶
@@ -260,4 +264,3 @@
 論語卷第五(經一千四百六十二字/注二千二百九十七字)¶
 <pb:KR1h0005_SBCK_005-19b>¶
 <pb:KR1h0005_SBCK_005-19b>¶
-

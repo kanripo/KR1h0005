@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 論語
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.235589
+#+PROPERTY: ID KR1h0005
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0029-010論語-卷第十.
 <pb:KR1h0005_SBCK_010-1a>¶
 論語子張第十九　何晏集解(凢卄四章/九卄五章)¶
 子張曰士見危致命(孔安國曰致/命不愛其身)¶
@@ -170,4 +174,3 @@
 　　正平(甲/辰)五月&KR0123;日謹誌¶
 論語卷第十(經一千二百二十三字/注一千一百七十五字)¶
 <pb:KR1h0005_SBCK_010-13a>¶
-

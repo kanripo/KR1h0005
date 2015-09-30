@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 論語
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:19.150210
+#+PROPERTY: ID KR1h0005
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0029-008論語-卷第八.
 <pb:KR1h0005_SBCK_008-1a>¶
 論語衛靈公第十五　何晏集解(凢卅章)¶
 衛靈公問陳於孔子(孔安國曰軍/陳行列之法)¶
@@ -259,4 +263,3 @@
 (故孔子正/言其禮也)¶
 論語卷第八(經一千七百七十四字/注一千九百七十/字)¶
 <pb:KR1h0005_SBCK_008-19b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 論語
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:18.940984
+#+PROPERTY: ID KR1h0005
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0029-003論語-卷第三.
 <pb:KR1h0005_SBCK_003-1a>¶
 論語公冶長第五　何晏集解(凢廿九章)¶
 子謂公冶長可妻也雖在縲紲之¶
@@ -272,4 +276,3 @@
 (而勿施於/人之也)¶
 論語卷第三(經一千七百一十一字/註二千八百二十/字)¶
 <pb:KR1h0005_SBCK_003-20b>¶
-

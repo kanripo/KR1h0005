@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 論語
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:18.985030
+#+PROPERTY: ID KR1h0005
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0029-004論語-卷第四.
 <pb:KR1h0005_SBCK_004-1a>¶
 論語述而第七　何晏集觧(舊卅九章/今卅八章)¶
 子曰述而不作信而好古&KR0060;比於¶
@@ -250,4 +254,3 @@
 <pb:KR1h0005_SBCK_004-18b>¶
 (十里為城城間有/洫洫廣深八尺也)禹吾無間然矣¶
 論語卷第四(經一千五百/十四字/注二千三百七十七字)¶
-

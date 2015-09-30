@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 論語
-#+DATE: 2015-09-23 09:41:05
+#+DATE: 2015-09-10 22:50:18.901818
+#+PROPERTY: ID KR1h0005
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0029-002論語-卷第二.
 <pb:KR1h0005_SBCK_002-1a>¶
 論語八佾第三　何晏集解(凢卄六章)¶
 孔子謂季氏八佾舞於庭是可忍¶
@@ -216,4 +220,3 @@
 矣朋友數斯䟽矣(數謂速數/之數也)¶
 論語卷第二(經一千二百一十二字/注一千九百三十一字)¶
 <pb:KR1h0005_SBCK_002-16b>¶
-
